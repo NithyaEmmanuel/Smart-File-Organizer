@@ -1,0 +1,4 @@
+# The application itself uses ONLY the Python standard library.
+# These are development / packaging tools:
+pyinstaller>=6.0
+pytest>=8.0
